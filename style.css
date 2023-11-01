@@ -1,0 +1,198 @@
+img{
+    display:block;
+}
+.lp{
+    position:absolute;
+    top:100vw;
+    left:100vw;
+}
+
+.menu_list{
+    font-family: "WigwagW01-Bold";
+    font-size: 30px;
+    color: white;
+    display:block;
+    margin:30px ;
+}
+
+.whole_menu_list{
+    width: 1366px;
+    height:90px;
+    background-color:black;
+}
+.top{
+    margin-right: calc(50%-50vw);
+    margin-left: calc(50%-50vw);
+    /**position:absolute;
+    top: 90px;
+    left: 0;**/
+    display: block;
+    width: 100vw;
+    height:auto;
+}
+.logo{
+    position:absolute;
+    top:160px;
+    left:700px;
+}
+.catch{
+    font-family:"筑紫B丸ゴシック";
+    font-weight: lighter;
+    color: white;
+    font-size: 43px;
+    letter-spacing: 5px;
+    position:absolute;
+    top:725px;
+    left:80px;
+    display:inline-block;
+}
+.about_us{
+    font-family: "WigwagW01-Bold";
+    font-size: 48px;
+    text-align: center;
+    position: absolute;
+    top:960px;
+    left:580px;
+}
+.discription{
+    font-family: "筑紫B丸ゴシック";
+    font-size: 20px;
+    color:darkgray;
+    position:absolute;
+    top:1020px;
+    left:480px;
+    width:480px;
+    text-align: center;
+    padding:0px 0;
+    line-height: 30px;    
+}
+.commitment_image ul{
+    display: flex;
+    position:absolute;
+    top:1130px;
+}
+.commitment_sentence dt {
+    position:flex;
+    font-family:"筑紫B丸ゴシック";
+    font-weight: bold;
+    font-size: 28px;
+    display: inline-block;
+    padding:20px;
+    height:100px;
+}
+.commitment_sentence_1{
+    position:absolute;
+    top:1570px;
+    left:120px;
+}
+.commitment_sentence_2{
+    position:absolute;
+    top:1570px;
+    left:570px;
+}
+.commitment_sentence_3{
+    position:absolute;
+    top:1570px;
+    left:1020px;
+}
+.commitment_sentence dd {
+    position:flex;
+    font-family:"筑紫B丸ゴシック";
+    font-weight: lighter;
+    font-size: 18px;
+    display: inline-block;
+    padding:20px;
+    height:100px;
+    color:darkgray;
+    text-align: center;
+}
+.commitment_sentence_4{
+    position:absolute;
+    margin: 20px;
+    top:1590px;
+    left:30px;
+    line-height:1.8;
+}
+.commitment_sentence_5{
+    position:absolute;
+    top:1590px;
+    margin:20px;
+    left:510px;
+    line-height:1.8;
+}
+.commitment_sentence_6{
+    position:absolute;
+    margin:20px;
+    top:1590px;
+    left:970px;
+    line-height:1.8;
+}
+.menu h1{
+    font-family: "WigwagW01-Bold";
+    font-size: 48px;
+    text-align: center;
+    position: absolute;
+    top:1790px;
+    left:580px;
+}
+.menu p{
+    font-family: "筑紫B丸ゴシック";
+    font-size: 20px;
+    color:darkgray;
+    position:absolute;
+    top:1850px;
+    left:420px;
+    width:480px;
+    text-align: center;
+    padding:0px 0;
+    line-height: 30px;    
+}
+.img1 ul{
+    display: flex;
+    position:absolute;
+    top:1980px;
+}
+.img2 ul{
+    display: flex;
+    position:absolute;
+    top:2670px;
+}
+.menu_title_1 dt{
+    position:flex;
+    font-family:"筑紫B丸ゴシック";
+    font-weight: bold;
+    font-size: 28px;
+    /* 上 | 左右 | 下 */
+    /*margin:20px 110px 0px;*/
+    display: inline-block;
+}
+.menu_title_1 .blend_coffee{
+    position:absolute;
+    top:2420px;
+    left: 120px;
+}
+.menu_title_1 .latte{
+    position:absolute;
+    top:2420px;
+    left: 600px;
+}
+.menu_title_1 .orangejuice{
+    position:absolute;
+    top:2420px;
+    left: 1030px;
+}
+.menu_title_1 dd{
+    position:flex;
+    font-family:"筑紫B丸ゴシック";
+    font-weight: lighter;
+    font-size: 18px;
+    display: inline-block;
+    padding:20px;
+    height:100px;
+    color:darkgray;
+    text-align: center;
+}
+.news div{
+    display:flex;
+    justify-content:flex-start
+}
